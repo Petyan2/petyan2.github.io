@@ -1,2 +1,2 @@
-# petyan2.github.io
-test site, html, css
+# cv_test
+Сайт-визика на HTML + CSS + JS
